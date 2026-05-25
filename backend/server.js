@@ -27,6 +27,8 @@ app.get("/", (req, res) => {
   res.json({
     message: "Welcome!",
     status: "API is running successfully",
+    frontend: "https://doctor-appointment-booking-system-v.vercel.app",
+    admin_portal: "https://doctor-appointment-booking-system-e-bay.vercel.app",
   });
 });
 
