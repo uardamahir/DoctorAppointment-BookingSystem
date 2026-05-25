@@ -10,7 +10,7 @@ const Footer = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
             nesciunt illo velit minima similique voluptatibus magnam est alias
             praesentium doloribus quo voluptatem illum, libero, et aspernatur
-            excepturi, autem corrupti. Placeat!
+            excepturi, autem corrupti. YES!
           </p>
         </div>
 
@@ -27,10 +27,11 @@ const Footer = () => {
 
         {/* ---------- Section 03 ---------- */}
         <div>
-          <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
+          <p className="text-xl font-medium mb-5">CONTACT</p>
           <ul className="flex flex-col gap-2 text-gray-600">
-            <li>+880 1234 567890</li>
-            <li>info@mahmudalam.com</li>
+            <li>532133****</li>
+            <li>ardamahirunlu@gmail.com
+</li>
           </ul>
         </div>
       </div>
@@ -39,7 +40,8 @@ const Footer = () => {
         <hr />
         <p className="py-5 text-sm text-center ">
           Copyright © {new Date().getFullYear()}{" "}
-          <a className="hover:text-primary font-bold" href="https://mahmudalam.com/">Mahmud Alam</a>.
+          <a className="hover:text-primary font-bold" href="ardamahirunlu@gmail.com
+">Arda Mahir Ünlü</a>.
         </p>
       </div>
     </div>
