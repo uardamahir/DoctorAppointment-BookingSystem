@@ -5,7 +5,7 @@ Full-stack bir doktor randevu sistemi. Kullanıcılar doktor arayabilir, randevu
 - Backend API: doctor-appointment-booking-system-sooty.vercel.app
 
 - Kullanıcı
-- 
+
 Kayıt ol / Giriş yap (JWT ile kimlik doğrulama)
 Uzmanlık alanına göre doktor ara ve filtrele
 Randevu al ve iptal et
