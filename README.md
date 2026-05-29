@@ -4,20 +4,21 @@ Full-stack bir doktor randevu sistemi. Kullanıcılar doktor arayabilir, randevu
 - Admin Portal: doctor-appointment-booking-system-e-bay.vercel.app
 - Backend API: doctor-appointment-booking-system-sooty.vercel.app
 
-- Kullanıcı
+
+KULLANICI
 
 Kayıt ol / Giriş yap (JWT ile kimlik doğrulama)
 Uzmanlık alanına göre doktor ara ve filtrele
 Randevu al ve iptal et
 Profil bilgilerini ve fotoğrafını güncelle
 
-- Doktor
+DOKTOR
 
 Randevuları görüntüle ve yönet
 Profil ve program bilgilerini güncelle
 Dashboard ile istatistikleri takip et
 
-- Admin
+ADMİN
 
 Yeni doktor ekle (Cloudinary ile fotoğraf yükleme)
 Tüm randevuları görüntüle ve yönet
@@ -25,7 +26,7 @@ Doktor listesini yönet
 Dashboard ile genel istatistikleri takip et
 
 
--NELER ÖĞRENDİM?
+- NELER ÖĞRENDİM?
 MERN Stack ile tam bir full-stack uygulama geliştirme deneyimi kazandım
 JWT ile kullanıcı, doktor ve admin için rol bazlı kimlik doğrulama sistemi kurdum
 MongoDB Atlas bulut veritabanı kurulumu ve bağlantı yönetimi
